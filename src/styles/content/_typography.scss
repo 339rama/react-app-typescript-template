@@ -1,0 +1,77 @@
+@import 'fonts/open-sans';
+
+html,
+body {
+  font-family: 'OpenSans', serif !important;
+  font-size: 16px !important;
+  line-height: 1rem;
+}
+
+h1 {
+  font-size: 4rem !important;
+  font-weight: bold !important;
+  margin-bottom: 0;
+}
+
+h2 {
+  font-size: 3rem !important;
+  font-weight: bold !important;
+  margin-bottom: 0;
+}
+
+h3 {
+  font-size: 2rem !important;
+  font-weight: bold !important;
+  margin-bottom: 0;
+}
+
+h4 {
+  font-size: 1.5rem !important;
+  font-weight: 500 !important;
+  margin-bottom: 0;
+}
+
+h5 {
+  font-size: 1.25rem !important;
+  font-weight: 500 !important;
+  margin-bottom: 0;
+}
+
+h6 {
+  font-size: 1rem !important;
+  font-weight: 500 !important;
+  margin-bottom: 0;
+}
+
+.font_body-1 {
+  font-weight: normal !important;
+  font-size: 1.25rem !important;
+  margin-bottom: 0;
+}
+
+.font_body-2 {
+  font-weight: normal !important;
+  font-size: 1rem !important;
+}
+
+.font_other {
+  font-size: 0.875rem !important;
+  font-weight: 500 !important;
+  margin-bottom: 0;
+}
+
+.font-xs {
+  font-size: 12px;
+}
+
+.font-sm {
+  font-size: 14px;
+}
+
+.font-md {
+  font-size: 16px;
+}
+
+.font-700 {
+  font-weight: 700;
+}
