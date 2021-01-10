@@ -1,2 +1,3 @@
+import authStore from 'modules/auth/store';
 
-export { };
+export { authStore };
